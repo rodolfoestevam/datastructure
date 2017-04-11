@@ -1,16 +1,16 @@
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
+    - [Arrays]
+    - [Linked Lists]
+    - [Stack]
+    - [Queue]
+    - [Hash table]
 - [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
+    - [Binary search]
+    - [Bitwise operations]
 - [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [Trees - Notes & Background]
+    - [Binary search trees: BSTs]
+    - [Heap / Priority Queue / Binary Heap]
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
