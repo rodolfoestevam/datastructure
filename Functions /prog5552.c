@@ -3,7 +3,7 @@
 
 linha (int num){
 int i;
-for (i = 1; i <num; i++)
+for (i = 1; i < num; i++)
 {
     putchar('*');
       putchar('\n');
