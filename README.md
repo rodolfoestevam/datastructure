@@ -1,3 +1,28 @@
-# datastructure
+- [Data Structures](#data-structures)
+    - [Arrays]
+    - [Linked Lists]
+    - [Stack]
+    - [Queue]
+    - [Hash table]
+- [More Knowledge](#more-knowledge)
+    - [Binary search]
+    - [Bitwise operations]
+- [Trees](#trees)
+    - [Trees - Notes & Background]
+    - [Binary search trees: BSTs]
+    - [Heap / Priority Queue / Binary Heap]
+    - balanced search trees (general concept, not details)
+    - traversals: preorder, inorder, postorder, BFS, DFS
+- [Sorting](#sorting)
+    - selection
+    - insertion
+    - heapsort
+    - quicksort
+    - merge sort
+- [Graphs](#graphs)
+    - directed
+    - undirected
+    - adjacency matrix
+    - adjacency list
+    - traversals: BFS, DFS
 
-adasdsada
