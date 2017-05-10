@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 void somaprod (int a, int b, int *c, int *d){
-  c = a + b;
-  d = a * b;
+  *c = a + b;
+  *d = a * b;
 }
 int main() {
   int s, p;
