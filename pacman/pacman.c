@@ -3,7 +3,8 @@
           #include <time.h>
           #include "pacman.h"
           #include "mapa.h"
-
+          #include "ui.h"
+          
           MAPA m;
           POSICAO heroi;
           int tempilula = 0;
@@ -69,6 +70,7 @@
           		direcao == BAIXO ||
           		direcao == DIREITA;
           }
+
           void move(char direcao) {
 
             int proximox = heroi.x;
