@@ -11,7 +11,7 @@ int main(void)
         if (v[y] < v[x])
         {
           t = v[x];
-          v[x] =v[y];
+          v[x] = v[y];
           v[y] = t;
           }
       }
