@@ -1,13 +1,17 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
 
     // imprime cabecalho do nosso jogo
+    printf("\n");
     printf("******************************************\n");
     printf("* Bem vindo ao nosso jogo de adivinhação *\n");
     printf("******************************************\n");
+    printf("\n");
 
-    int numerosecreto = 41;
+
+    int numerosecreto = 74;
 
     int chute;
     int tentativas = 1;
@@ -15,7 +19,7 @@ int main() {
     while(1) {
 
         printf("Tentativa %d\n", tentativas);
-        printf("Qual é o seu chute? ");
+        printf("Qual é o seu chute?\n");
 
         scanf("%d", &chute);
         printf("Seu chute foi %d\n", chute);
@@ -47,5 +51,6 @@ int main() {
     }
 
     printf("Fim de jogo!\n");
-    printf("Você acertou em %d tentativas!", tentativas);
+    printf("Você acertou em %d tentativas!\n", tentativas);
+    printf("\n");
 }
